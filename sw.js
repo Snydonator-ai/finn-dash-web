@@ -1,5 +1,5 @@
 /* Finn Dash offline cache. Bump CACHE to push an update to everyone. */
-const CACHE = 'finn-dash-1.8';
+const CACHE = 'finn-dash-2.1';
 const FILES = ['./', './index.html', './manifest.webmanifest',
   './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png', './icons/icon-512-maskable.png'];
 self.addEventListener('install', e => {

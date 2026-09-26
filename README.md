@@ -37,5 +37,5 @@ Players get the update the next time they open it with an internet connection.
 - **Sound:** the game plays a silent clip on the first tap so it can be heard even when the ring/silent
   switch is set to silent. If there is still no sound, flick the switch back on.
 - **Saved progress** lives on that device. Apple can clear a web app's storage if it goes unused for a
-  long stretch, so use the **Backup Code** on the main menu to write down a player's progress.
+  long stretch; if that happens, the **🔑 Secret Codes** on the main menu give a quick head start again.
 - There are no ads, no accounts and nothing is sent anywhere — the game runs entirely on the device.
